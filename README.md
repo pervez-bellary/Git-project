@@ -1,4 +1,4 @@
 # Git-project
 Git Project
 <br>
-Author - Pervez M Bellary
+Author - Pervez M B
